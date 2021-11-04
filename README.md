@@ -1,5 +1,5 @@
 # mnist_genetic_algorithm
-A genetic algorithm implementation to detect useless inputs in a pre-trained NN
+A genetic algorithm implementation to detect useless inputs in a pre-trained NN.
 
 Supported features are regular crossover + mutation, crossover + mutation with elitism and crossover + mutation with elitism and mutation applied to it.
 The code supports running multiple sets of parameters in succession without the need to restart and is very scalable/configurable.

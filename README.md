@@ -9,6 +9,6 @@ This version does not use CV nor does it retrain the NN, mainly due to the fact 
 NN being tested in this case is very huge and thus for huge population sizes the runs would take a prohibitive amount of time,
 even on a GPU and also due to the fact that there wouldn't be many significant changes in the end results. Support for it is easy to add though.
 
-For the included NN
-The model architecture, and training configuration (including the optimizer, losses, and metrics) are stored in saved_model.pb. 
+For the included NN:
+The model architecture and training configuration (including the optimizer, losses, and metrics) are stored in saved_model.pb. 
 The weights are saved in the variables/ directory.
